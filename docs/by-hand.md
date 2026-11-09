@@ -26,7 +26,7 @@ cat > idea-test-files/text.json <<'J'
 {"name":"Soil sensor","paragraphs":["The FYTA Beam G2 costs €39,99."],
  "short":{"target":"A chain lists it","reason":"No record yet","check_at":"The chain's own website",
   "assumptions":["Owners want to know when plants are dry","A chain would list a new sensor"],
-  "people":[{"person":"Garden centre buyer","line":"A new tool gets no shelf space."}]}}
+  "people":["A garden centre buyer"]}}
 J
 python3 "$SG" report --file text.json
 ```
