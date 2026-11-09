@@ -1,0 +1,30 @@
+{
+ "type": "object",
+ "additionalProperties": false,
+ "required": [
+  "odds"
+ ],
+ "properties": {
+  "odds": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+     "id",
+     "p"
+    ],
+    "properties": {
+     "id": {
+      "type": "integer"
+     },
+     "p": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+     }
+    }
+   }
+  }
+ }
+}

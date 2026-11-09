@@ -1,0 +1,60 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local reference, kept on the author's machine
+docs/session-history.md
+research/
+pages/
+work/
+data/
+codexhome/
+empty/
+
+# Kickstarter data and model outputs from the public test
+public-test/test.jsonl
+public-test/train.jsonl
+public-test/resolved.jsonl
+public-test/arm1_preds.json
+public-test/batches.json
+public-test/cards/
+public-test/cards_pass/
+public-test/odds/
+public-test/cache/
+public-test/live/
+public-test/preflight/
+public-test/val25_import.jsonl
+public-test/partE_out.json
+public-test/checker_log.json
+public-test/ledger.jsonl
+public-test/*.run.log
+public-test/*.out
+public-test/history/verify/
+public-test/verify-report.md
+
+# Pages built from the private research
+docs/artifacts/
+
+# Working notes: kept on the author's machine, out of the first public release
+# (slim-release-v1, 2026-11-09; delete this block to publish them)
+CLAUDE.md
+AGENTS.md
+docs/brief.md
+docs/spec.md
+docs/open-decisions.md
+docs/tickets.md
+docs/traps.md
+docs/sources.md
+docs/design-language.md
+docs/decisions/
+docs/reach-check/
+public-test/history/
+public-test/plan-revised.md
+public-test/FIXES*.md
+public-test/STAGE1.md
+public-test/EFFORT
+public-test/split.log
+public-test/uv.log
+docs/how-it-works.md
+docs/design.md

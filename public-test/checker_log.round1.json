@@ -1,0 +1,824 @@
+{
+ "cards": 71,
+ "archive_route": {
+  "fail": 18,
+  "no_dated_capture": 7,
+  "pass": 4,
+  "unchecked": 42
+ },
+ "live_route": {
+  "fail": 36,
+  "unchecked": 15,
+  "pass": 20
+ },
+ "defeats_checker": {
+  "archive": 42,
+  "live": 15
+ },
+ "failures": [
+  {
+   "parent": "Art",
+   "url": "https://www.business-money.com/announcements/kickstarter-campaigns-from-uk-are-second-most-successful-in-the-world/",
+   "archive": [
+    "fail",
+    "quote not on page (capture 20250512175649)"
+   ],
+   "live": [
+    "fail",
+    "quote not on page"
+   ]
+  },
+  {
+   "parent": "Art",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5935031/",
+   "archive": [
+    "fail",
+    "quote not on page (capture 20250214232544)"
+   ],
+   "live": [
+    "fail",
+    "quote not on page"
+   ]
+  },
+  {
+   "parent": "Art",
+   "url": "https://assets.pewresearch.org/wp-content/uploads/sites/13/2016/01/PJ_2016.01.20_kickstarter_FINAL.pdf",
+   "archive": [
+    "no_dated_capture",
+    "no 200 capture before 2026-07-14"
+   ],
+   "live": [
+    "fail",
+    "number outside whitelist"
+   ]
+  },
+  {
+   "parent": "Art",
+   "url": "https://www.kickstarter.com/blog/by-the-numbers-when-creators-return-to-kickstarter?cursor=11067758",
+   "archive": [
+    "fail",
+    "number outside whitelist (capture 20190916203448)"
+   ],
+   "live": [
+    "unchecked",
+    "http 403"
+   ]
+  },
+  {
+   "parent": "Comics",
+   "url": "https://graphicpolicy.com/2026/05/14/kickstarter-attacks-adult-comics-while-updating-its-rules/",
+   "archive": [
+    "fail",
+    "quote shorter than 40 characters (capture 20260519004356)"
+   ],
+   "live": [
+    "fail",
+    "quote shorter than 40 characters"
+   ]
+  },
+  {
+   "parent": "Comics",
+   "url": "https://icv2.com/articles/news/view/59286/comics-kickstarter-up-dramatically-2024",
+   "archive": [
+    "fail",
+    "quote not on page (capture 20251010135648)"
+   ],
+   "live": [
+    "pass",
+    "quote on page"
+   ]
+  },
+  {
+   "parent": "Comics",
+   "url": "https://www.comicsbeat.com/kickstarter-is-hiring-a-new-comics-lead-as-the-category-surges/",
+   "archive": [
+    "fail",
+    "quote not on page (capture 20260108160834)"
+   ],
+   "live": [
+    "pass",
+    "quote on page"
+   ]
+  },
+  {
+   "parent": "Crafts",
+   "url": "https://www.business-money.com/announcements/kickstarter-campaigns-from-uk-are-second-most-successful-in-the-world/",
+   "archive": [
+    "fail",
+    "quote not on page (capture 20250512175649)"
+   ],
+   "live": [
+    "pass",
+    "quote on page"
+   ]
+  },
+  {
+   "parent": "Crafts",
+   "url": "https://www.researchgate.net/publication/400192732_Explainable_Prediction_of_Crowdfunding_Success_Using_Hierarchical_Attention_Network",
+   "archive": [
+    "no_dated_capture",
+    "no 200 capture before 2026-07-14"
+   ],
+   "live": [
+    "unchecked",
+    "http 403"
+   ]
+  },
+  {
+   "parent": "Crafts",
+   "url": "https://assets.pewresearch.org/wp-content/uploads/sites/13/2016/01/PJ_2016.01.20_kickstarter_FINAL.pdf",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "fail",
+    "number outside whitelist"
+   ]
+  },
+  {
+   "parent": "Crafts",
+   "url": "https://eprints.hud.ac.uk/id/eprint/29953/1/All%20Out%20War%20on%20Kickstarter%20MG%20Smith%20K%20Smith.pdf",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "fail",
+    "quote not on page"
+   ]
+  },
+  {
+   "parent": "Crafts",
+   "url": "https://upsdownsfamilyhistory.wordpress.com/2019/03/29/fast-fully-funded-kickstarter-campaign-march-2019/",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "fail",
+    "quote not on page"
+   ]
+  },
+  {
+   "parent": "Dance",
+   "url": "https://www.kickstarter.com/blog/by-the-numbers-when-creators-return-to-kickstarter?cursor=11067758",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "unchecked",
+    "http 403"
+   ]
+  },
+  {
+   "parent": "Dance",
+   "url": "https://upsdownsfamilyhistory.wordpress.com/2019/03/29/fast-fully-funded-kickstarter-campaign-march-2019/",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "fail",
+    "quote not on page"
+   ]
+  },
+  {
+   "parent": "Dance",
+   "url": "https://link.springer.com/article/10.1186/s40854-021-00293-7",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "pass",
+    "quote on page"
+   ]
+  },
+  {
+   "parent": "Dance",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8327500/",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "fail",
+    "quote shorter than 40 characters"
+   ]
+  },
+  {
+   "parent": "Dance",
+   "url": "https://www.reddit.com/r/kickstarter/comments/1nbmrts/dailyupdated_dataset_of_all_live_kickstarter/",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "fail",
+    "quote holds < or >"
+   ]
+  },
+  {
+   "parent": "Design",
+   "url": "https://www.tandfonline.com/doi/full/10.1080/10632921.2025.2519715",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "unchecked",
+    "http 403"
+   ]
+  },
+  {
+   "parent": "Design",
+   "url": "https://www.business-money.com/announcements/kickstarter-campaigns-from-uk-are-second-most-successful-in-the-world/",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "fail",
+    "quote not on page"
+   ]
+  },
+  {
+   "parent": "Design",
+   "url": "https://eprints.hud.ac.uk/id/eprint/29953/1/All%20Out%20War%20on%20Kickstarter%20MG%20Smith%20K%20Smith.pdf",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "fail",
+    "quote not on page"
+   ]
+  },
+  {
+   "parent": "Fashion",
+   "url": "https://artofstyle.club/fashion-kickstarter-campaign-infographic/",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "unchecked",
+    "http 0"
+   ]
+  },
+  {
+   "parent": "Fashion",
+   "url": "https://www.kickstarter.com/blog/by-the-numbers-when-creators-return-to-kickstarter?cursor=11067758",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "unchecked",
+    "http 403"
+   ]
+  },
+  {
+   "parent": "Fashion",
+   "url": "https://www.business-money.com/announcements/kickstarter-campaigns-from-uk-are-second-most-successful-in-the-world/",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "fail",
+    "quote not on page"
+   ]
+  },
+  {
+   "parent": "Fashion",
+   "url": "https://www.reddit.com/r/kickstarter/comments/1nbmrts/dailyupdated_dataset_of_all_live_kickstarter/",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "fail",
+    "quote shorter than 40 characters"
+   ]
+  },
+  {
+   "parent": "Fashion",
+   "url": "https://www.researchgate.net/publication/400192732_Explainable_Prediction_of_Crowdfunding_Success_Using_Hierarchical_Attention_Network",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "unchecked",
+    "http 403"
+   ]
+  },
+  {
+   "parent": "Film_and_Video",
+   "url": "https://eb5projects.com/system/uploads/document/file/115/Crowdfunding-Textbook.pdf",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "fail",
+    "quote not on page"
+   ]
+  },
+  {
+   "parent": "Film_and_Video",
+   "url": "https://pdfs.semanticscholar.org/e3fa/3deb3778678aed2d21c59672199397ce9809.pdf",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "fail",
+    "quote not on page"
+   ]
+  },
+  {
+   "parent": "Film_and_Video",
+   "url": "https://link.springer.com/content/pdf/10.1007%2Fs10796-016-9723-1.pdf",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "fail",
+    "quote not on page"
+   ]
+  },
+  {
+   "parent": "Film_and_Video",
+   "url": "https://www.tcf.team/blog/q1-2026-crowdfunding-report",
+   "archive": [
+    "no_dated_capture",
+    "no 200 capture before 2026-07-14"
+   ],
+   "live": [
+    "pass",
+    "quote on page"
+   ]
+  },
+  {
+   "parent": "Food",
+   "url": "https://www.business-money.com/announcements/kickstarter-campaigns-from-uk-are-second-most-successful-in-the-world/",
+   "archive": [
+    "unchecked",
+    "capture http 0"
+   ],
+   "live": [
+    "fail",
+    "quote not on page"
+   ]
+  },
+  {
+   "parent": "Food",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5935031/",
+   "archive": [
+    "unchecked",
+    "capture http 0"
+   ],
+   "live": [
+    "fail",
+    "number outside whitelist"
+   ]
+  },
+  {
+   "parent": "Food",
+   "url": "https://posatlanta.com/blog/can-you-use-kickstarter-to-open-a-restaurant/",
+   "archive": [
+    "unchecked",
+    "capture http 0"
+   ],
+   "live": [
+    "fail",
+    "number outside whitelist"
+   ]
+  },
+  {
+   "parent": "Food",
+   "url": "https://www.tandfonline.com/doi/abs/10.1080/10632921.2025.2519715",
+   "archive": [
+    "no_dated_capture",
+    "no 200 capture before 2026-07-14"
+   ],
+   "live": [
+    "unchecked",
+    "http 403"
+   ]
+  },
+  {
+   "parent": "Food",
+   "url": "https://www.kickstarter.com/blog/by-the-numbers-when-creators-return-to-kickstarter?cursor=11067758",
+   "archive": [
+    "fail",
+    "number outside whitelist (capture 20190916203448)"
+   ],
+   "live": [
+    "unchecked",
+    "http 403"
+   ]
+  },
+  {
+   "parent": "Games",
+   "url": "https://updates.kickstarter.com/the-creative-download-games/",
+   "archive": [
+    "unchecked",
+    "capture http 0"
+   ],
+   "live": [
+    "pass",
+    "quote on page"
+   ]
+  },
+  {
+   "parent": "Games",
+   "url": "https://assets.pewresearch.org/wp-content/uploads/sites/13/2016/01/PJ_2016.01.20_kickstarter_FINAL.pdf",
+   "archive": [
+    "no_dated_capture",
+    "no 200 capture before 2026-07-14"
+   ],
+   "live": [
+    "fail",
+    "number outside whitelist"
+   ]
+  },
+  {
+   "parent": "Games",
+   "url": "https://www.gamespot.com/articles/games-top-kickstarter-successes-in-2012/1100-6402168/",
+   "archive": [
+    "fail",
+    "number outside whitelist (capture 20240719011410)"
+   ],
+   "live": [
+    "unchecked",
+    "http 403"
+   ]
+  },
+  {
+   "parent": "Journalism",
+   "url": "https://gijn.org/resource/crowdfunding-for-journalists/",
+   "archive": [
+    "unchecked",
+    "capture http 0"
+   ],
+   "live": [
+    "pass",
+    "quote on page"
+   ]
+  },
+  {
+   "parent": "Journalism",
+   "url": "https://www.kickstarter.com/blog/by-the-numbers-when-creators-return-to-kickstarter?cursor=11067758",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "unchecked",
+    "http 403"
+   ]
+  },
+  {
+   "parent": "Journalism",
+   "url": "https://www.journalism.org/wp-content/uploads/sites/8/2016/01/PJ_2016.01.20_kickstarter_FINAL.pdf",
+   "archive": [
+    "fail",
+    "quote not on page (capture 20200912225422)"
+   ],
+   "live": [
+    "fail",
+    "quote not on page"
+   ]
+  },
+  {
+   "parent": "Journalism",
+   "url": "https://www.niemanlab.org/2018/11/2018-has-been-a-record-breaking-year-for-journalism-kickstarters-though-only-about-1-in-5-actually-get-funded/",
+   "archive": [
+    "fail",
+    "quote not on page (capture 20251129212536)"
+   ],
+   "live": [
+    "pass",
+    "quote on page"
+   ]
+  },
+  {
+   "parent": "Journalism",
+   "url": "https://www.business-money.com/announcements/kickstarter-campaigns-from-uk-are-second-most-successful-in-the-world/",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "fail",
+    "quote not on page"
+   ]
+  },
+  {
+   "parent": "Music",
+   "url": "https://www.latimes.com/business/la-xpm-2012-jun-22-la-fi-tn-kickstarter-stats-20120621-story.html",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "pass",
+    "quote on page"
+   ]
+  },
+  {
+   "parent": "Music",
+   "url": "https://mcvuk.com/business-news/media-pr/kickstarter-game-funding-surpasses-200m/",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "pass",
+    "quote on page"
+   ]
+  },
+  {
+   "parent": "Music",
+   "url": "https://www.kickstarter.com/blog/by-the-numbers-when-creators-return-to-kickstarter?cursor=11067758",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "unchecked",
+    "http 403"
+   ]
+  },
+  {
+   "parent": "Music",
+   "url": "https://assets.pewresearch.org/wp-content/uploads/sites/13/2016/01/PJ_2016.01.20_kickstarter_FINAL.pdf",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "fail",
+    "number outside whitelist"
+   ]
+  },
+  {
+   "parent": "Music",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8327500/",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "pass",
+    "quote on page"
+   ]
+  },
+  {
+   "parent": "Photography",
+   "url": "https://www.business-money.com/announcements/kickstarter-campaigns-from-uk-are-second-most-successful-in-the-world/",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "fail",
+    "quote not on page"
+   ]
+  },
+  {
+   "parent": "Photography",
+   "url": "https://www.mdpi.com/2071-1050/12/2/599",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "unchecked",
+    "http 403"
+   ]
+  },
+  {
+   "parent": "Photography",
+   "url": "https://d-nb.info/112270173X/34",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "fail",
+    "quote not on page"
+   ]
+  },
+  {
+   "parent": "Photography",
+   "url": "https://www.researchgate.net/publication/400192732_Explainable_Prediction_of_Crowdfunding_Success_Using_Hierarchical_Attention_Network",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "unchecked",
+    "http 403"
+   ]
+  },
+  {
+   "parent": "Photography",
+   "url": "https://upsdownsfamilyhistory.wordpress.com/2019/03/29/fast-fully-funded-kickstarter-campaign-march-2019/",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "fail",
+    "quote not on page"
+   ]
+  },
+  {
+   "parent": "Publishing",
+   "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/55794-publishing-gains-support-at-kickstarter.html",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "pass",
+    "quote on page"
+   ]
+  },
+  {
+   "parent": "Publishing",
+   "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/65250-publishing-thrived-on-kickstarter-in-2014.html",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "pass",
+    "quote on page"
+   ]
+  },
+  {
+   "parent": "Publishing",
+   "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/71246-kickstarter-hits-a-publishing-milestone.html",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "pass",
+    "quote on page"
+   ]
+  },
+  {
+   "parent": "Publishing",
+   "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/72704-kickstarter-hits-100-million-mark-for-publishing-projects.html",
+   "archive": [
+    "unchecked",
+    "cdx http 0"
+   ],
+   "live": [
+    "pass",
+    "quote on page"
+   ]
+  },
+  {
+   "parent": "Publishing",
+   "url": "https://upsdownsfamilyhistory.wordpress.com/2019/03/29/fast-fully-funded-kickstarter-campaign-march-2019/",
+   "archive": [
+    "unchecked",
+    "capture http 0"
+   ],
+   "live": [
+    "fail",
+    "quote not on page"
+   ]
+  },
+  {
+   "parent": "Technology",
+   "url": "https://www.business-money.com/announcements/kickstarter-campaigns-from-uk-are-second-most-successful-in-the-world/",
+   "archive": [
+    "unchecked",
+    "capture http 0"
+   ],
+   "live": [
+    "pass",
+    "quote on page"
+   ]
+  },
+  {
+   "parent": "Technology",
+   "url": "https://timreview.ca/sites/default/files/article_PDF/TIMReview_2021_Issue_11-12-3.pdf",
+   "archive": [
+    "fail",
+    "quote not on page (capture 20240603050945)"
+   ],
+   "live": [
+    "fail",
+    "quote not on page"
+   ]
+  },
+  {
+   "parent": "Technology",
+   "url": "https://www.sseriga.edu/sites/default/files/2020-05/6Paper_Dzene.pdf",
+   "archive": [
+    "fail",
+    "quote not on page (capture 20250319092901)"
+   ],
+   "live": [
+    "fail",
+    "quote not on page"
+   ]
+  },
+  {
+   "parent": "Technology",
+   "url": "https://assets.pewresearch.org/wp-content/uploads/sites/13/2016/01/PJ_2016.01.20_kickstarter_FINAL.pdf",
+   "archive": [
+    "no_dated_capture",
+    "no 200 capture before 2026-07-14"
+   ],
+   "live": [
+    "fail",
+    "number outside whitelist"
+   ]
+  },
+  {
+   "parent": "Technology",
+   "url": "https://thehustle.co/crowdfunding-success-rate",
+   "archive": [
+    "fail",
+    "quote shorter than 40 characters (capture 20260310162613)"
+   ],
+   "live": [
+    "fail",
+    "quote shorter than 40 characters"
+   ]
+  },
+  {
+   "parent": "Theater",
+   "url": "https://www.comicsbeat.com/comics-continues-to-be-one-of-the-most-successful-categories-on-kickstarter/",
+   "archive": [
+    "fail",
+    "quote shorter than 40 characters (capture 20260216054627)"
+   ],
+   "live": [
+    "fail",
+    "quote shorter than 40 characters"
+   ]
+  },
+  {
+   "parent": "Theater",
+   "url": "https://assets.pewresearch.org/wp-content/uploads/sites/13/2016/01/PJ_2016.01.20_kickstarter_FINAL.pdf",
+   "archive": [
+    "no_dated_capture",
+    "no 200 capture before 2026-07-14"
+   ],
+   "live": [
+    "fail",
+    "number outside whitelist"
+   ]
+  },
+  {
+   "parent": "Theater",
+   "url": "https://core.ac.uk/download/pdf/80719599.pdf",
+   "archive": [
+    "fail",
+    "quote not on page (capture 20240724131648)"
+   ],
+   "live": [
+    "unchecked",
+    "http 403"
+   ]
+  },
+  {
+   "parent": "Theater",
+   "url": "https://eprints.hud.ac.uk/id/eprint/29953/1/All%20Out%20War%20on%20Kickstarter%20MG%20Smith%20K%20Smith.pdf",
+   "archive": [
+    "fail",
+    "quote not on page (capture 20260412093412)"
+   ],
+   "live": [
+    "fail",
+    "quote not on page"
+   ]
+  },
+  {
+   "parent": "Theater",
+   "url": "https://www.tse-fr.eu/sites/default/files/medias/doc/conf/sic/conf%202015/zvilichovsky.pdf",
+   "archive": [
+    "fail",
+    "quote not on page (capture 20251119081828)"
+   ],
+   "live": [
+    "fail",
+    "quote not on page"
+   ]
+  }
+ ]
+}

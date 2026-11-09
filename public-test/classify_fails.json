@@ -1,0 +1,128 @@
+[
+ {
+  "parent": "Art",
+  "url": "https://www.business-money.com/announcements/kickstarter-campaigns-from-uk-are-second-most-successful-in-the-world/",
+  "cls": [
+   "C",
+   "page text 80 chars"
+  ],
+  "pdf": false
+ },
+ {
+  "parent": "Art",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5935031/",
+  "cls": [
+   "B",
+   "differs only in non-alphanumerics; quote has ['%', ',', '.', '|']"
+  ],
+  "pdf": false
+ },
+ {
+  "parent": "Comics",
+  "url": "https://icv2.com/articles/news/view/59286/comics-kickstarter-up-dramatically-2024",
+  "cls": [
+   "A",
+   "page text 3691 chars"
+  ],
+  "pdf": false
+ },
+ {
+  "parent": "Crafts",
+  "url": "https://www.business-money.com/announcements/kickstarter-campaigns-from-uk-are-second-most-successful-in-the-world/",
+  "cls": [
+   "C",
+   "page text 80 chars"
+  ],
+  "pdf": false
+ },
+ {
+  "parent": "Dance",
+  "url": "https://link.springer.com/article/10.1186/s40854-021-00293-7",
+  "cls": [
+   "A",
+   "page text 68776 chars"
+  ],
+  "pdf": false
+ },
+ {
+  "parent": "Design",
+  "url": "https://www.business-money.com/announcements/kickstarter-campaigns-from-uk-are-second-most-successful-in-the-world/",
+  "cls": [
+   "C",
+   "page text 80 chars"
+  ],
+  "pdf": false
+ },
+ {
+  "parent": "Fashion",
+  "url": "https://www.business-money.com/announcements/kickstarter-campaigns-from-uk-are-second-most-successful-in-the-world/",
+  "cls": [
+   "C",
+   "page text 80 chars"
+  ],
+  "pdf": false
+ },
+ {
+  "parent": "Food",
+  "url": "https://www.business-money.com/announcements/kickstarter-campaigns-from-uk-are-second-most-successful-in-the-world/",
+  "cls": [
+   "C",
+   "page text 80 chars"
+  ],
+  "pdf": false
+ },
+ {
+  "parent": "Journalism",
+  "url": "https://gijn.org/resource/crowdfunding-for-journalists/",
+  "cls": [
+   "A",
+   "page text 14619 chars"
+  ],
+  "pdf": false
+ },
+ {
+  "parent": "Journalism",
+  "url": "https://www.niemanlab.org/2018/11/2018-has-been-a-record-breaking-year-for-journalism-kickstarters-though-only-about-1-in-5-actually-get-funded/",
+  "cls": [
+   "A",
+   "page text 11692 chars"
+  ],
+  "pdf": false
+ },
+ {
+  "parent": "Journalism",
+  "url": "https://www.business-money.com/announcements/kickstarter-campaigns-from-uk-are-second-most-successful-in-the-world/",
+  "cls": [
+   "C",
+   "page text 80 chars"
+  ],
+  "pdf": false
+ },
+ {
+  "parent": "Photography",
+  "url": "https://www.business-money.com/announcements/kickstarter-campaigns-from-uk-are-second-most-successful-in-the-world/",
+  "cls": [
+   "C",
+   "page text 80 chars"
+  ],
+  "pdf": false
+ },
+ {
+  "parent": "Technology",
+  "url": "https://www.business-money.com/announcements/kickstarter-campaigns-from-uk-are-second-most-successful-in-the-world/",
+  "cls": [
+   "C",
+   "page text 80 chars"
+  ],
+  "pdf": false
+ },
+ {
+  "parent": "Theater",
+  "url": "https://www.tse-fr.eu/sites/default/files/medias/doc/conf/sic/conf%202015/zvilichovsky.pdf",
+  "cls": [
+   "B",
+   "differs only in non-alphanumerics; quote has ['%', ',', '.']"
+  ],
+  "pdf": true
+ }
+]

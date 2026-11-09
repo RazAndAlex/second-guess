@@ -1,0 +1,369 @@
+{
+ "canceled_or_suspended": 89,
+ "unresolved": 1,
+ "models": {
+  "opus": {
+   "n": 1000,
+   "funded_share": 0.572,
+   "constant_brier": 0.2448,
+   "brier": {
+    "1": 0.1976,
+    "3": 0.1781
+   },
+   "gap_arm3_minus_arm1": -0.0195,
+   "gap_ci95": [
+    -0.0331,
+    -0.0048
+   ],
+   "relative_change_arm3_vs_arm1": -0.0987,
+   "PASS": false,
+   "status": "COMPLETE",
+   "projects_arm3_without_cards": 509,
+   "calibration": {
+    "1": [
+     {
+      "bin": 0,
+      "n": 4,
+      "mean_p": 0.068,
+      "funded": 0.0
+     },
+     {
+      "bin": 1,
+      "n": 47,
+      "mean_p": 0.162,
+      "funded": 0.149
+     },
+     {
+      "bin": 2,
+      "n": 85,
+      "mean_p": 0.259,
+      "funded": 0.329
+     },
+     {
+      "bin": 3,
+      "n": 116,
+      "mean_p": 0.352,
+      "funded": 0.31
+     },
+     {
+      "bin": 4,
+      "n": 159,
+      "mean_p": 0.456,
+      "funded": 0.403
+     },
+     {
+      "bin": 5,
+      "n": 174,
+      "mean_p": 0.552,
+      "funded": 0.655
+     },
+     {
+      "bin": 6,
+      "n": 156,
+      "mean_p": 0.653,
+      "funded": 0.647
+     },
+     {
+      "bin": 7,
+      "n": 149,
+      "mean_p": 0.749,
+      "funded": 0.846
+     },
+     {
+      "bin": 8,
+      "n": 94,
+      "mean_p": 0.845,
+      "funded": 0.862
+     },
+     {
+      "bin": 9,
+      "n": 16,
+      "mean_p": 0.925,
+      "funded": 0.938
+     }
+    ],
+    "3": [
+     {
+      "bin": 0,
+      "n": 79,
+      "mean_p": 0.057,
+      "funded": 0.063
+     },
+     {
+      "bin": 1,
+      "n": 108,
+      "mean_p": 0.127,
+      "funded": 0.185
+     },
+     {
+      "bin": 2,
+      "n": 107,
+      "mean_p": 0.217,
+      "funded": 0.308
+     },
+     {
+      "bin": 3,
+      "n": 111,
+      "mean_p": 0.315,
+      "funded": 0.514
+     },
+     {
+      "bin": 4,
+      "n": 95,
+      "mean_p": 0.425,
+      "funded": 0.495
+     },
+     {
+      "bin": 5,
+      "n": 113,
+      "mean_p": 0.521,
+      "funded": 0.699
+     },
+     {
+      "bin": 6,
+      "n": 107,
+      "mean_p": 0.63,
+      "funded": 0.757
+     },
+     {
+      "bin": 7,
+      "n": 114,
+      "mean_p": 0.727,
+      "funded": 0.851
+     },
+     {
+      "bin": 8,
+      "n": 119,
+      "mean_p": 0.836,
+      "funded": 0.891
+     },
+     {
+      "bin": 9,
+      "n": 47,
+      "mean_p": 0.929,
+      "funded": 1.0
+     }
+    ]
+   },
+   "arm2": {
+    "n": 1000,
+    "brier": 0.176,
+    "arm1_same_ids": 0.1976
+   },
+   "descriptive_covered_vs_rest": {
+    "covered": {
+     "n": 491,
+     "arm1": {
+      "n": 491,
+      "brier": 0.1929
+     },
+     "arm2": {
+      "n": 491,
+      "brier": 0.1792
+     },
+     "arm3": {
+      "n": 491,
+      "brier": 0.1806
+     }
+    },
+    "rest": {
+     "n": 509,
+     "arm1": {
+      "n": 509,
+      "brier": 0.2022
+     },
+     "arm2": {
+      "n": 509,
+      "brier": 0.1729
+     },
+     "arm3": {
+      "n": 509,
+      "brier": 0.1757
+     }
+    }
+   }
+  },
+  "sol": {
+   "n": 1000,
+   "funded_share": 0.572,
+   "constant_brier": 0.2448,
+   "brier": {
+    "1": 0.1976,
+    "3": 0.162
+   },
+   "gap_arm3_minus_arm1": -0.0356,
+   "gap_ci95": [
+    -0.0488,
+    -0.0221
+   ],
+   "relative_change_arm3_vs_arm1": -0.1803,
+   "PASS": true,
+   "status": "COMPLETE",
+   "projects_arm3_without_cards": 509,
+   "calibration": {
+    "1": [
+     {
+      "bin": 0,
+      "n": 4,
+      "mean_p": 0.068,
+      "funded": 0.0
+     },
+     {
+      "bin": 1,
+      "n": 47,
+      "mean_p": 0.162,
+      "funded": 0.149
+     },
+     {
+      "bin": 2,
+      "n": 85,
+      "mean_p": 0.259,
+      "funded": 0.329
+     },
+     {
+      "bin": 3,
+      "n": 116,
+      "mean_p": 0.352,
+      "funded": 0.31
+     },
+     {
+      "bin": 4,
+      "n": 159,
+      "mean_p": 0.456,
+      "funded": 0.403
+     },
+     {
+      "bin": 5,
+      "n": 174,
+      "mean_p": 0.552,
+      "funded": 0.655
+     },
+     {
+      "bin": 6,
+      "n": 156,
+      "mean_p": 0.653,
+      "funded": 0.647
+     },
+     {
+      "bin": 7,
+      "n": 149,
+      "mean_p": 0.749,
+      "funded": 0.846
+     },
+     {
+      "bin": 8,
+      "n": 94,
+      "mean_p": 0.845,
+      "funded": 0.862
+     },
+     {
+      "bin": 9,
+      "n": 16,
+      "mean_p": 0.925,
+      "funded": 0.938
+     }
+    ],
+    "3": [
+     {
+      "bin": 0,
+      "n": 26,
+      "mean_p": 0.072,
+      "funded": 0.077
+     },
+     {
+      "bin": 1,
+      "n": 80,
+      "mean_p": 0.15,
+      "funded": 0.087
+     },
+     {
+      "bin": 2,
+      "n": 120,
+      "mean_p": 0.246,
+      "funded": 0.208
+     },
+     {
+      "bin": 3,
+      "n": 109,
+      "mean_p": 0.348,
+      "funded": 0.376
+     },
+     {
+      "bin": 4,
+      "n": 115,
+      "mean_p": 0.445,
+      "funded": 0.452
+     },
+     {
+      "bin": 5,
+      "n": 89,
+      "mean_p": 0.556,
+      "funded": 0.607
+     },
+     {
+      "bin": 6,
+      "n": 101,
+      "mean_p": 0.648,
+      "funded": 0.743
+     },
+     {
+      "bin": 7,
+      "n": 138,
+      "mean_p": 0.752,
+      "funded": 0.783
+     },
+     {
+      "bin": 8,
+      "n": 137,
+      "mean_p": 0.849,
+      "funded": 0.934
+     },
+     {
+      "bin": 9,
+      "n": 85,
+      "mean_p": 0.936,
+      "funded": 0.941
+     }
+    ]
+   },
+   "arm2": {
+    "n": 1000,
+    "brier": 0.1622,
+    "arm1_same_ids": 0.1976
+   },
+   "descriptive_covered_vs_rest": {
+    "covered": {
+     "n": 491,
+     "arm1": {
+      "n": 491,
+      "brier": 0.1929
+     },
+     "arm2": {
+      "n": 491,
+      "brier": 0.1599
+     },
+     "arm3": {
+      "n": 491,
+      "brier": 0.1634
+     }
+    },
+    "rest": {
+     "n": 509,
+     "arm1": {
+      "n": 509,
+      "brier": 0.2022
+     },
+     "arm2": {
+      "n": 509,
+      "brier": 0.1644
+     },
+     "arm3": {
+      "n": 509,
+      "brier": 0.1606
+     }
+    }
+   }
+  }
+ },
+ "router_error_batches": {}
+}

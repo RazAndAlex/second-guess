@@ -1,0 +1,49 @@
+{
+ "type": "object",
+ "additionalProperties": false,
+ "required": [
+  "cards"
+ ],
+ "properties": {
+  "cards": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+     "url",
+     "quote",
+     "number",
+     "sample",
+     "population",
+     "year"
+    ],
+    "properties": {
+     "url": {
+      "type": "string"
+     },
+     "quote": {
+      "type": "string"
+     },
+     "number": {
+      "type": "string"
+     },
+     "sample": {
+      "type": "string"
+     },
+     "population": {
+      "type": "string"
+     },
+     "year": {
+      "type": "string"
+     },
+     "assumption": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 10
+     }
+    }
+   }
+  }
+ }
+}

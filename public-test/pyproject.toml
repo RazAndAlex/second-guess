@@ -1,0 +1,8 @@
+[project]
+name = "ks-test"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "pypdf>=6.21.4",
+    "scikit-learn>=1.9.1",
+]
