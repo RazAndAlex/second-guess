@@ -7,9 +7,9 @@
 
 **An idea validation skill for Claude Code and Codex.** Your agent searches the web for evidence. A small Python program checks every quote and number the agent reports. You get one HTML report.
 
-![The top of a second-guess report: a 15% chance that an Italian supermarket chain lists spray refill tablets by November 2027, the reason it would miss, and the counts the code checked](docs/images/report-top.png)
+https://github.com/user-attachments/assets/1616cdf8-8422-4346-9327-6ee277a1cd40
 
-One example report. The percentage is the AI's opinion. Code computed the counts below it.
+One example run: the garden centre idea. The percentage is the AI's opinion. Code computed the counts.
 
 [Open the example report](https://razandalex.github.io/second-guess/report.html) · [How it works](https://razandalex.github.io/second-guess/) · [Install](#install)
 
