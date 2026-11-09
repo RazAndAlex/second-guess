@@ -7,7 +7,7 @@
 
 **An idea validation skill for Claude Code and Codex.** Your agent searches the web for evidence. A small Python program checks every quote and number the agent reports. You get one HTML report.
 
-VIDEO_URL
+https://github.com/user-attachments/assets/1616cdf8-8422-4346-9327-6ee277a1cd40
 
 One example run: the garden centre idea. The percentage is the AI's opinion. Code computed the counts.
 
